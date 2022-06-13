@@ -1,0 +1,5 @@
+print("Enter Celcius temperature")
+cstr = input()
+c = float(cstr)
+f = 32 + (9*c/5)
+print("Farenheit temperature is ", f)
